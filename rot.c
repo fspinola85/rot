@@ -30,7 +30,7 @@ void version () {
     printf("0.1");
     printf("\n\n");
 }
-
+// Encryption
 void encryptMessage (int rotation, char *message, int length) {
     printf("Encrypted Message: \n");
     printf("--------------------------------------------\n");
@@ -51,7 +51,7 @@ void encryptMessage (int rotation, char *message, int length) {
     printf("--------------------------------------------\n");
     printf("\033[1;32mSUCCESS!\033[0m\n");
 }
-
+// Decryption
 void decryptMessage (int rotation, char *message, int length) {
     printf("Decrypted Message: \n");
     printf("--------------------------------------------\n");
