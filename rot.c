@@ -1,6 +1,6 @@
 /**
  * @file rot.c
- * @author fspinola85 (fssecure@outlook.com)
+ * @author fspinola85 (fssecur3@outlook.com)
  * @brief A simple program to enrypt and decrypt messages or text files, using Ceaser Cipher.
  * @version 1.0
  * 
